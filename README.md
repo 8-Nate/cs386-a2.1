@@ -8,4 +8,6 @@
 ## Developers
 
 * Nile H.
-* marcogerosa
+* Marcogerosa
+* placeholder
+* placeholder
